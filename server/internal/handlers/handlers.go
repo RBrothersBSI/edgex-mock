@@ -1,7 +1,7 @@
 package handlers
 
 import (
-	"server/domain"
+	"server/internal/domain"
 	"strconv"
 
 	"github.com/gin-gonic/gin"

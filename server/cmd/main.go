@@ -1,7 +1,7 @@
 package main
 
 import (
-	"server/handlers"
+	"server/internal/handlers"
 
 	"github.com/gin-gonic/gin"
 )
